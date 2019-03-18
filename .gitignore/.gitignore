@@ -2,6 +2,7 @@
 /target/
 *.class
 /.settings/
+/test-output/
 *.jar
 *.war
 *.ear
