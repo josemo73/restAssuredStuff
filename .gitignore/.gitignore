@@ -1,0 +1,9 @@
+/Output/
+/target/
+*.class
+/.settings/
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
